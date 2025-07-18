@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765845640491",
+    "project_id": "goddara-9f27e",
+    "storage_bucket": "goddara-9f27e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765845640491:android:175617cd6e95f8913fa16e",
+        "android_client_info": {
+          "package_name": "com.example.godda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIUFtBnJuee9oaDPW5lqPEBJXEWCvVgAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
